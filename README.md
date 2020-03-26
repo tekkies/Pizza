@@ -1,2 +1,2 @@
 # Pizza
-A scratch pad for examples
+A scratch pad for C# examples
